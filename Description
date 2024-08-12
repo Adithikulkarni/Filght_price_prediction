@@ -1,0 +1,8 @@
+Flight Price Prediction Using Random Forest Regression ✈️
+This project aims to predict flight prices using the Random Forest Regression algorithm. It provides an end-to-end solution, from data preprocessing to model evaluation, and serves as a valuable tool for predicting airline ticket prices.
+
+Project Overview
+Data Collection & Preprocessing: The dataset was cleaned and preprocessed, including handling missing values and converting date-time columns into useful features.
+Feature Engineering: Key features such as day of journey, month, duration, and airline were extracted and encoded.
+Model Building: A Random Forest Regression model was implemented and fine-tuned to predict flight prices.
+Model Evaluation: The model's performance was evaluated using metrics like R² score, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
